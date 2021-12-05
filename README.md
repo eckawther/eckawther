@@ -2,7 +2,7 @@
 - 👀 I’m interested in Science as a whole, and Biology to be specific, and now Computer Science
 - 🌱 I’m currently learning Biology under a Bachelor's program and planning to pursue a Master's Degree in Bioinformatics
 - 💞️ I’m looking to collaborate on all types of projects once I get the opportunity
-- 📫 How to reach me
+- 📫 You can reach me on
                   LinkedIn: https://de.linkedin.com/in/kawther-elleuch-b3b50a222
 
 <!---
