@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Kawther Elleuch, or @eckawther here on Github
-- 👀 I’m interested in Science as a whole, and Biology to be specific, and now Computer Science
-- 🌱 I’m currently learning Biology under a Bachelor's program and planning to pursue a Master's Degree in Bioinformatics
-- 💞️ I’m looking to collaborate on all types of projects once I get the opportunity
-- 📫 You can reach me on
+Hi, I’m Kawther Elleuch (@eckawther).
+I’m a bioinformatician-in-training with a Bachelor’s degree in Biology.
+I work on RNA-seq pipelines, functional genomics, and scientific data analysis, and I’m expanding into computer science by building reproducible workflows and clean, modular code.
+
+Connect with me on LinkedIn:
                   LinkedIn: https://de.linkedin.com/in/kawther-elleuch-b3b50a222
 
 <!---
