@@ -1,6 +1,4 @@
-Hi, I’m Kawther Elleuch (@eckawther).
-I’m a bioinformatician-in-training with a Bachelor’s degree in Biology.
-I work on RNA-seq pipelines, functional genomics, and scientific data analysis, and I’m expanding into computer science by building reproducible workflows and clean, modular code.
+Hi, I’m Kawther Elleuch (@eckawther), a Master’s student in bioinformatics with dual Bachelor’s degrees in Biology and Bioinformatics. My work focuses on RNA-seq pipelines, functional genomics, and scientific data analysis. I’m advancing my computer science skills by developing reproducible workflows and writing clean, modular code.
 
 Connect with me on LinkedIn:
                   LinkedIn: https://de.linkedin.com/in/kawther-elleuch-b3b50a222
